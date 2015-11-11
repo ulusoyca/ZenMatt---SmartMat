@@ -12,8 +12,8 @@ As I said this was just one day hack but I added a couple of component diagrams 
 
 ![alt tag](http://i.imgur.com/jy8FNKN.png?1)
 
-![alt tag](http://i.imgur.com/capALZQ.png)
+![alt tag](http://i.imgur.com/3Sc05xD.png?1)
 
-![alt tag](http://i.imgur.com/FzkyADe.png?1)
+![alt tag](http://i.imgur.com/MaCgecm.png?1)
 
 ![alt tag](http://i.imgur.com/NpoqlcF.png?1)
