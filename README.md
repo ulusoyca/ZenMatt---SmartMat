@@ -10,10 +10,10 @@ Currently, the Custom Mat Service should have only one BluetoothGatt characteris
 
 As I said this was just one day hack but I added a couple of component diagrams to describe how the backened is implemented. Feel free to extend this app with your ideas!
 
-![alt tag](http://i.imgur.com/jy8FNKN.png?1)
+![alt tag](http://i.imgur.com/ZsYSh84.png?1)
 
-![alt tag](http://i.imgur.com/3Sc05xD.png?1)
+![alt tag](http://i.imgur.com/0npMOFz.png?1)
 
-![alt tag](http://i.imgur.com/lNrKYnV.png?1)
+![alt tag](http://i.imgur.com/qFnDfkR.png?1)
 
-![alt tag](http://i.imgur.com/NpoqlcF.png?1)
+![alt tag](http://i.imgur.com/lflb6Ef.png?1)
